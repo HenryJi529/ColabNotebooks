@@ -10,3 +10,5 @@
 - (Learn|Practice)Pytorch4.ipynb: Pytorch Custom Datasets
 - (Learn|Practice)Pytorch5.ipynb: Pytorch Going Modular
 - (Learn|Practice)Pytorch6.ipynb: Pytorch Transfer Learning
+- PracticePyG0.ipynb: PyG Fundamental
+- PracticePyG1.ipynb: PyG Node Classification
