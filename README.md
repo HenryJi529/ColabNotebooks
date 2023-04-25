@@ -13,3 +13,4 @@
 - (Learn|Practice)Pytorch7.ipynb: Pytorch Experiment Tracking
 - PracticePyG0.ipynb: PyG Fundamental
 - PracticePyG1.ipynb: PyG Node Classification
+- PracticePyG2.ipynb: PyG Custom Datasets
